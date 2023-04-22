@@ -1,8 +1,7 @@
-# vue-interactive-paycard (npm package (for react & react-native too) is coming soon)
+# Smart Card
+#### by Talo
 
-A fantastic credit card form with smooth and sweet micro-interactions. Includes number formatting, validation and automatic card type detection. Built with vuejs and also fully responsive.
-
-See Live: https://codepen.io/JavaScriptJunkie/pen/YzzNGeR
+This credit card form is exceptional, featuring seamless and delightful micro-interactions. It incorporates number formatting, validation, and automatic card type detection. The form is constructed with vuejs and is completely responsive.
 
 ![](demo.gif)
 
